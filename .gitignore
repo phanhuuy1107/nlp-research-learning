@@ -1,0 +1,1 @@
+data/raw/*.csv data/processed/*.pt *.bin_pycache_/ .env
